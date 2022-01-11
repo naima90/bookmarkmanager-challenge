@@ -1,10 +1,25 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/rrs/bookmarkmanager-challenge/spec/features/bookmark_spec.rb": {
+      "/Users/nasteha/Projects/bookmarkmanager-challenge/spec/bookmark_spec.rb": {
         "lines": [
           1,
           null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/nasteha/Projects/bookmarkmanager-challenge/spec/features/viewing_bookmarks_spec.rb": {
+        "lines": [
+          1,
           1,
           1,
           1,
@@ -14,6 +29,6 @@
         ]
       }
     },
-    "timestamp": 1641830612
+    "timestamp": 1641897085
   }
 }
