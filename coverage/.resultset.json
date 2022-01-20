@@ -21,6 +21,28 @@
           1,
           null,
           null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/nasteha/Projects/bookmarkmanager-challenge/spec/features/creating_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
           null
         ]
       },
@@ -28,7 +50,7 @@
         "lines": [
           1,
           1,
-          1,
+          null,
           null,
           1,
           1,
@@ -45,6 +67,6 @@
         ]
       }
     },
-    "timestamp": 1642571887
+    "timestamp": 1642661733
   }
 }
